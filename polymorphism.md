@@ -51,5 +51,9 @@ class OvenTemperatureError extends Error {
     return "oven temprature: " + actualTemp + " is outside safe range: " + minimumTemp + " to " + maximumTemp;
   }
 }
+
+Error err = new OvenTemmperatureError(1, 2, 3);
+System.out.println(err.message());
+
 ```
 
