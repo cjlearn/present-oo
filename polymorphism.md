@@ -41,7 +41,7 @@ class Error {
   }
 }
 
-class OvenTemperatureError() {
+class OvenTemperatureError extends Error {
   private final float maximumTemp;
   private final float minimumTemp;
   private final float actualTemp;
