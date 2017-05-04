@@ -60,7 +60,8 @@ private:
 ```
 
 # Function Member
-The function members of a class define the operations it can perform.
+The function members of a class define the operations its instances
+can perform.
 Typically, a function member operates on an instance's data members.
 
 ```java
