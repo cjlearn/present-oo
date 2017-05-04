@@ -38,6 +38,8 @@ class Food {
 
   // ...
 }
+
+Food bean = new Food("lima");
 ```
 
 ## Data Member
