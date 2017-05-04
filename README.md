@@ -23,6 +23,6 @@ This presentation focuses on class-based OOP but the principles
 apply to protypal OOP as well.
 
 - Class-based OOP
-- Inheritance and Polymorphism
 - Encapsulation an Information Hiding
+- Inheritance and Polymorphism
 
