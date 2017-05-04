@@ -65,7 +65,10 @@ Typically, a function member operates on an instance's data members.
 
 ```java
 class Counter {
+  // data members
   private int value;
+  
+  // function members
   public void increment() {
     value = value + 1;
   }
