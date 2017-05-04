@@ -37,7 +37,7 @@ can certainly change the behavior in a way its clients do not expect).
 
 ## Design by Contract
 
-Design by contract is aa formalization of information hiding in your design. A contract consists
+Design by contract is a formalization of information hiding in your design. A contract consists
 of _pre-conditions_, those facts that the caller must ensure are true before calling any of your
 object's code, and _post-conditions_, those facts that your code must ensure are true after your
 object's code is called. If the caller meets the pre-conditions, your object is responsible to
