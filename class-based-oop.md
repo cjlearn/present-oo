@@ -31,7 +31,7 @@ class Food {
   // ...
 
   // constructor
-  Food(String name) {
+  public Food(String name) {
     // initialize all the data for a new
     // instance of "Food."
   }
