@@ -2,10 +2,11 @@
 
 ## Inheritance
 
-Inheritance is a way for one kind of data to extend another. In class-
-based OOP, the language supports this through _sub-classing_. In most
-OOP languages, sub-classing often implies _subtyping_ although the
-distinction is often not made. People use the terms interchangeably.
+Inheritance is a way for one kind of data to extend another. In
+class-based OOP, the language supports this through _sub-classing_.
+In most OOP languages, sub-classing often implies _subtyping_
+although the distinction is often not made. People use the terms
+interchangeably.
 
 In C++:
 
